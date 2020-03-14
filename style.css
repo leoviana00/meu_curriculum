@@ -1,0 +1,56 @@
+body {
+	margin: 0;
+}
+
+h2 {
+	font-weight: lighter;
+}
+
+a{
+	font-size: 40px;
+}
+
+a:hover{
+	text-decoration: none;
+	color:black;
+}
+
+#header {
+	text-align: center;
+	background-image: url("https://unsplash.it/1300/600?random");
+	background-size: cover;
+	padding: 150px;
+	color:white;
+	text-shadow:1px 1px 5px black;
+}
+
+#header h1{
+	color: white;
+	font-size: 50px;
+}
+
+#header p {
+	color: white;
+	font-size: 30px;
+	font-weight: lighter;
+}
+.card {
+	text-align: center;
+	padding: 30px;
+	font-weight: lighter;
+}
+
+#footer {
+	text-align: center;
+	background-color: rgb(30,30,30);
+	color: white;
+	padding: 50px;
+}
+ #footer a{
+ 	color:lightgrey;
+ 	font-size: 15px;
+ }
+
+ #footer s:hover{
+ 	color: white;
+ }
